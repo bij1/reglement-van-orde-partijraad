@@ -476,11 +476,11 @@ ook met betrekking tot de locatie van de vergadering.
 Hiertoe worden tijdig stappen ondernomen, voor bijvoorbeeld schrijf- en gebarentolken,
 toegankelijke visuele presentaties en andere benodigdheden.
 
-## Artikel 25 Inwerkingtreding
+## Artikel 26 Inwerkingtreding
 
 Dit reglement treedt in werking op de eerste dag nadat het door de partijraad is aangenomen.
 
-## Artikel 26 Wijziging
+## Artikel 27 Wijziging
 
 Wijziging en vervanging van het reglement van orde partijraad BIJ1
 vindt plaats middels een simpele meerderheid van ter vergadering aanwezige partijraadsleden.
@@ -488,10 +488,10 @@ Wijzigingen en vervangingen van het Reglement van orde Partijraad BIJ1
 treden in werking op de eerste dag nadat ze door de partijraad zijn aangenomen,
 tenzij de partijraad anders bepaalt.
 
-## Artikel 27 Inzien door leden
+## Artikel 28 Inzien door leden
 
 Het reglement van orde partijraad BIJ1 is te allen tijde op de website van de partij beschikbaar.
 
-## Artikel 28 Citeertitel
+## Artikel 29 Citeertitel
 
 Dit reglement wordt aangehaald als *reglement van orde partijraad BIJ1*.
