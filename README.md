@@ -403,11 +403,11 @@ en heeft enkel een faciliterende rol.
     binnen de genoemde termijn redelijkerwijs niet mogelijk is,
     gebeurt dit zo spoedig mogelijk daarna.
     Indien dit niet is gebeurt voor de eerstvolgende partijraadsvergadering
-    ligt het bestuur op deze vergadering mondeling de reden toe.
+    licht het bestuur op deze vergadering mondeling de reden toe.
 1.  Indien er tegen beantwoording dan wel verstrekking van de documenten bezwaar bestaat,
     wordt dit de vraagsteller dan wel opvrager en alle leden van de partijraad
     onder opgave van redenen schriftelijk medegedeeld,
-    en ligt het bestuur dit mondeling toe op de eerstvolgende partijraadsvergadering.
+    en licht het bestuur dit mondeling toe op de eerstvolgende partijraadsvergadering.
 
 # Hoofdstuk 9 Schriftelijke consultatie
 
