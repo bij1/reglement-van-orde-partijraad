@@ -83,8 +83,7 @@
     overeenkomstig artikel 2 danwel artikel 6 lid 4, zou beginnen,
     uit de presentielijst blijkt dat niet tenminste de helft
     maar wel meer dan een kwart van het aantal leden van de partijraad aanwezig is
-    stemmen de aanwezige leden met een eenvoudige meerderheid
-    of de vergadering voortgang heeft of sluit.
+    stemmen de aanwezige leden of de vergadering voortgang heeft of sluit.
 1.  Indien een lid de vergadering vóór de sluiting verlaat,
     dan stelt dit lid de voorzitter hiervan in kennis.
     De voorzitter stelt hiervan vervolgens de raad in kennis.
@@ -220,8 +219,8 @@ en heeft enkel een faciliterende rol.
 
 1.  Partijraadsleden kunnen derden uitnodigen
     deel te nemen aan de beraadslagingen of deel van de beraadslagingen.
-    De partijraad bepaalt ter vergadering met een eenvoudige meerderheid van stemmen
-    of een genodigde derde wordt toegelaten tot de beraadslagingen of een deel van de beraadslagingen.
+    De partijraad stemt ter vergadering of een genodigde derde wordt toegelaten
+    tot de beraadslagingen of een deel van de beraadslagingen.
     Uitgenodigde en toegelaten derden die geen lid zijn van de partijraad geen stemrecht,
     noch hebben zij het recht om voorstellen te doen of moties of ordemoties in te dienen.
 1.  De beraadslaging over voorstellen, moties en amendementen,
@@ -260,11 +259,6 @@ en heeft enkel een faciliterende rol.
     Hiervoor moet een schriftelijke machtiging opgesteld worden door het afwezige lid
     dat het gemachtigde lid bij zich moet hebben op de vergadering.
     Een lid mag namens maximaal 1 ander lid een stem uitbrengen.
-1.  De besluitvorming vindt in de regel plaats bij een simpele meerderheid van stemmen
-    van zowel de gewone partijraadsleden
-    als de partijraadsleden die afgevaardigd zijn door de afdelingen,
-    tenzij in de statuten, het huishoudelijk reglement
-    of in dit Reglement van Orde anders is bepaald.
 1.  Besluitvorming bij acclamatie is mogelijk,
     indien geen van de aanwezige stemgerechtigden hier bezwaar tegen heeft.
 1.  Elk lid is bevoegd voordat tot stemming wordt overgegaan
@@ -366,7 +360,7 @@ en heeft enkel een faciliterende rol.
     zo spoedig mogelijk in kennis.
 1.  Inlichtingen worden aan alle leden van de partijraad verstrekt,
     tenzij er zwaarwegende redenen zijn dit niet te doen
-    en de partijraad met een eenvoudige meerderheid van stemmen
+    en de partijraad
     het besluit neemt de inlichtingen niet aan alle leden van de partijraad te verstrekken.
 
 ## Artikel 21 Schriftelijke vragen
@@ -463,10 +457,10 @@ en heeft enkel een faciliterende rol.
     en in de gevallen waarin het reglement van orde partijraad BIJ1 niet of niet voldoende voorziet
     beslist de voorzitter van de vergadering.
 1.  Indien een of meerdere leden het oneens zijn over het oordeel van de voorzitter
-    bepaalt de vergadering met een simpele meerderheid van stemmen
+    besluit de vergadering
     hoe het reglement moet worden toegepast en/of hoe een zaak
     waarin het reglement van orde niet voldoende voorziet moet worden behandeld.
-1.  De partijraad kan met een simpele meerderheid van stemmen
+1.  De partijraad kan
     besluiten af te wijken van het reglement van orde.
 
 ## Artikel 25 Toegankelijkheid
@@ -482,8 +476,8 @@ Dit reglement treedt in werking op de eerste dag nadat het door de partijraad is
 
 ## Artikel 26 Wijziging
 
-Wijziging en vervanging van het reglement van orde partijraad BIJ1
-vindt plaats middels een simpele meerderheid van ter vergadering aanwezige partijraadsleden.
+Besluit tot wijziging en vervanging van het reglement van orde partijraad BIJ1
+vindt plaats door ter vergadering aanwezige partijraadsleden.
 Wijzigingen en vervangingen van het Reglement van orde Partijraad BIJ1
 treden in werking op de eerste dag nadat ze door de partijraad zijn aangenomen,
 tenzij de partijraad anders bepaalt.
