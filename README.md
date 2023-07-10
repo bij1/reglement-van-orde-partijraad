@@ -83,7 +83,7 @@
     overeenkomstig artikel 2 danwel artikel 6 lid 4, zou beginnen,
     uit de presentielijst blijkt dat niet tenminste de helft
     maar wel meer dan een kwart van het aantal leden van de partijraad aanwezig is
-    stemmen de aanwezige leden of de vergadering voortgang heeft of sluit.
+    besluiten de aanwezige leden of de vergadering voortgang heeft of sluit.
 1.  Indien een lid de vergadering vóór de sluiting verlaat,
     dan stelt dit lid de voorzitter hiervan in kennis.
     De voorzitter stelt hiervan vervolgens de raad in kennis.
